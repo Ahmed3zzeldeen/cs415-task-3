@@ -51,5 +51,5 @@ cs415-task-3/
 ```
 
 ## Future Work
-- [ ] Implement GitHub Actions workflow for automated testing on push and pull requests.
+- [X] Implement GitHub Actions workflow for automated testing on push and pull requests.
 - [ ] Dockerize the application for easier deployment and testing. (as a part of future tasks)
